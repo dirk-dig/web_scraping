@@ -1,0 +1,34 @@
+{
+    "oauth": {
+        "consumer_secret": "...", 
+        "access_token": "...", 
+        "consumer_key": "...", 
+        "access_token_secret": "..."
+    }, 
+    "feeds": [
+        "gr-qc", 
+        "hep-ex", 
+        "q-bio.PE", 
+        "math.AG", 
+        "math.AT", 
+        "math.CT", 
+        "math.DG", 
+        "math.GN", 
+        "math.GR", 
+        "cs.CL", 
+        "cs.GT", 
+        "cs.CV", 
+        "cs.CR", 
+        "cs.DS", 
+        "cs.DC", 
+        "cs.IR", 
+        "cs.LG", 
+        "cs.MM", 
+        "cs.NI", 
+        "cs.PL", 
+        "cs.SI", 
+        "stat.AP", 
+        "stat.ML"
+    ], 
+    "timeout": 60
+}
